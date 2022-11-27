@@ -1,13 +1,1 @@
-```
-const caitlynnYanz = {
-    title: "Full-Stack Software Engineer",
-    location: ["Remote", “Boise ID”],
-    skills: {
-        languages: ["Ruby", "JavaScript", "HTML", "CSS"],
-        languages_in_progress: ["Python", "Java", "SQL", "C"],
-        frameworks: ["Rails", "Vue.js", "React", "Ionic", “Bootstrap”],
-        databases_libraries_tools: ["Postgres", "APIs", "Git", "Github"],
-        other: [“Perpetual Learner”, "Rock Climber", "Writer", "Musician", “World Traveler”]
-        }
-     };
-```
+![README_image (3)](https://user-images.githubusercontent.com/107785042/204161377-2d21f2ab-b3a4-415d-98f7-428d37f0779a.gif)
