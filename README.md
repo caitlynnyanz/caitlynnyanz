@@ -1,5 +1,5 @@
 ```
-<span style="color:red">const</span> caitlynnYanz = {
+const caitlynnYanz = {
     title: "Full-Stack Software Engineer",
     location: ["Remote", “Boise ID”],
     skills: {
