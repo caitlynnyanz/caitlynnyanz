@@ -1,1 +1,2 @@
-![README_image (3)](https://user-images.githubusercontent.com/107785042/204161377-2d21f2ab-b3a4-415d-98f7-428d37f0779a.gif)
+
+![README_image (800 × 400 px)](https://user-images.githubusercontent.com/107785042/204161866-459d37c0-33d6-47f4-bf81-4b33609736f1.gif)
